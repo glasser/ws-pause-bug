@@ -1,0 +1,3 @@
+{
+    "dependencies": {"faye-websocket": "0.7.0"}
+}
